@@ -1,4 +1,18 @@
-Label : Affichage test
-Trackbar : Niveaux de sécurité
-Bouton : Confirmer les paramètres
-Label : Affichage niveau de sécurité 
+Barre de navigation de fonctionnalités : ToolStrip
+Mot de passe (sécurité notée d'un mot de passe saisi, générateur de mots de passe à haut niveau de sécurité, stockage de mots de passe chiffrés)
+Détection de Malwares
+Scan réseau
+Shredding
+Statistiques 
+
+Accueil : Label etc....
+Heures locales de plusieurs capitales
+Adresse IP et localisation
+Date dernière analyse
+Utilisation RAM
+Utilisation CPU
+Date dernière mise à jour signatures 
+Mettre à jour
+
+
+
