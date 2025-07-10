@@ -1,0 +1,4 @@
+Label : Affichage test
+Trackbar : Niveaux de sécurité
+Bouton : Confirmer les paramètres
+Label : Affichage niveau de sécurité 
